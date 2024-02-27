@@ -1,7 +1,3 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,6 +22,14 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.main-bg-gradient {
+  background: linear-gradient(180deg, #2E3192 0%, #0C0D1B 100%);
+}
+
+.section-bg-gradient {
+  background: linear-gradient(180deg, #2E3192 0%, rgba(7, 10, 91, 0.84) 100%);
 }
 
 @keyframes App-logo-spin {
