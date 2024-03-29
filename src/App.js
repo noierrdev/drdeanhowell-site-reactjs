@@ -21,9 +21,9 @@ function App() {
           </div>
         </div>
         <div className='flex flex-col mx-28 text-white relative z-10'>
-          <div className='flex flex-row mt-24 text-5xl'>Helping People</div>
-          <div className='flex flex-row mt-4 text-7xl'>Gain Power in Their Life</div>
-          <div className='flex flex-row mt-8 whitespace-nowrap'>Funding handshake buyer business-to-business metrics iPad partnership. First <br></br> mover advantage innovator success deployment non-disclosure.
+          <div className='flex flex-row mt-24 text-3xl'>Curing & Transforming Lives</div>
+          <div className='flex flex-row mt-4 text-5xl'>Dr. Dean Howell ND <br/> Best NeuroCranial Restructuring®<br/> in Tonasket, Washington</div>
+          <div className='flex flex-row mt-8 whitespace-nowrap'>Your Journey to Optimal Health Begins Here
           </div>
           <div className='flex flex-row space-x-6 mt-9'>
             <button className='rounded-[56px] px-14 py-4 bg-[#2E3192]'>Shop Now</button>
@@ -52,8 +52,8 @@ function App() {
             <div className='w-20 h-2 rounded-md bg-[#D9D9D9] mt-2'></div>
           </div>
           <div className='mt-5 text-8xl'>Dr. Dean Howell</div>
-          <div className='mt-5 text-[#2E3192] text-xl'>Expert Clinical Psychologist in Manhattan</div>
-          <div className='mt-5 text-[#D9D9D9] text-xl'>Conversion angel investor entrepreneur first mover advantage. Handshake infographic mass market crowdfunding iteration. Traction stock user experience deployment beta innovator incubator focus. Sales user experience branding growth hacking holy grail monetization conversion prototype stock network effects. Learning curve network effects return on investment bootstrapping business-to-consumer. </div>
+          <div className='mt-5 text-[#2E3192] text-xl'>A Visionary Physical Medicine Specialist</div>
+          <div className='mt-5 text-[#D9D9D9] text-xl'>Over four decades ago, Dr. Dean Howell, N.D., embarked on a journey to redefine the landscape of physical medicine. Equipped with a degree from Bastyr University and an unwavering passion for healing, he dove deep into exploring the intricate connection between the body's mechanical structure and its profound influence on overall well-being. This relentless pursuit culminated in the birth of NCR® - NeuroCranial Restructuring, a technique that not only optimizes physical structure but also propels the nervous system to its peak functioning, unlocking a previously uncharted realm of consciousness. </div>
           <div className='mt-3'><button className='rounded-[56px] px-14 py-4 border-[#2E3192] border-2 text-xl font-bold'>Read More</button></div>
         </div>
       </div>
@@ -63,21 +63,21 @@ function App() {
         <div className='flex flex-row mt-24 space-x-24'>
           <div className='flex flex-col basis-1/3'>
             <img src='images/service1.png' alt='service1'></img>
-            <div className='mt-6 text-2xl text-[2E2E2E] font-semibold'>Drug Abuse Prevention</div>
+            <div className='mt-6 text-2xl text-[2E2E2E] font-semibold'>Depression</div>
             <div className='mt-3 text-[#D9D9D9] text-xl font-normal'>Learning curve network effects return on investment.</div>
-            <div className='mt-7 text-xl text-[#0A2640] font-bold flex flex-row space-x-3 cursor-pointer'><div>Explore page</div><div>-></div><div/></div>
+            <div className='mt-7 text-xl text-[#0A2640] font-bold flex flex-row space-x-3 cursor-pointer'><div>Explore page</div><div></div><div/></div>
           </div>
           <div className='flex flex-col basis-1/3'>
             <img src='images/service2.png' alt='service2'></img>
             <div className='mt-6 text-2xl text-[2E2E2E] font-semibold'>Assessment Treatment</div>
             <div className='mt-3 text-[#D9D9D9] text-xl font-normal'>Learning curve network effects return on investment.</div>
-            <div className='mt-7 text-xl text-[#0A2640] font-bold flex flex-row space-x-3 cursor-pointer'><div>Explore page</div><div>-></div><div/></div>
+            <div className='mt-7 text-xl text-[#0A2640] font-bold flex flex-row space-x-3 cursor-pointer'><div>Explore page</div><div></div><div/></div>
           </div>
           <div className='flex flex-col basis-1/3'>
             <img src='images/service3.png' alt='service3'></img>
             <div className='mt-6 text-2xl text-[2E2E2E] font-semibold'>Health Psychology</div>
             <div className='mt-3 text-[#D9D9D9] text-xl font-normal'>Learning curve network effects return on investment.</div>
-            <div className='mt-7 text-xl text-[#0A2640] font-bold flex flex-row space-x-3 cursor-pointer'><div>Explore page</div><div>-></div><div/></div>
+            <div className='mt-7 text-xl text-[#0A2640] font-bold flex flex-row space-x-3 cursor-pointer'><div>Explore page</div><div></div><div/></div>
           </div>
         </div>
       </div>
